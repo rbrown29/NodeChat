@@ -1,0 +1,22 @@
+{
+  "name": "nodechat",
+  "version": "1.0.0",
+  "description": "A terminal-based chat server and client built with Node.js",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCC-CIS-195N/NodeChat.git"
+  },
+  "author": "Marc Goodman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCC-CIS-195N/NodeChat/issues"
+  },
+  "homepage": "https://github.com/PCC-CIS-195N/NodeChat#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
