@@ -1,6 +1,11 @@
 # NodeChat
 A terminal-based chat client and server in Node.js. Uses the blessed npm module.
 
+# Technologies
+* JAVASCRIPT
+* NODE.JS
+* BLESSED
+
 ## Usage
 Install blessed:
 
